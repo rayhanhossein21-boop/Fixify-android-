@@ -1,0 +1,6 @@
+{
+  "name": "Fixify",
+  "description": "Global on-demand multi-service platform connecting clients with verified professionals worldwide across all industries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
